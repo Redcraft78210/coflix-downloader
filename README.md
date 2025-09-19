@@ -23,7 +23,7 @@ git clone https://github.com/Redcraft78210/coflix-downloader.git
 cd coflix-downloader
 ```
 
-⚠️ Assurez-vous aussi que l’outil **[uqload-dl](https://github.com/Sorrow446/uqload-dl)** est installé sur votre système et accessible dans le `PATH`.
+⚠️ Assurez-vous aussi que l’outil **[uqload-dl](https://github.com/JoelFH23/uqload-downloader-python)** est installé sur votre système et accessible dans le `PATH`.
 
 ---
 
